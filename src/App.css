@@ -1,0 +1,20 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 600;
+    padding: 20px 40px;
+    background-color: #ffffff;
+    background-image: url("https://i.pinimg.com/originals/22/a5/a7/22a5a7b9dbc0e29ccef006dea5981367.png");
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 1;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    box-shadow: -5px 0px 14px black;
+}
+
+* {
+    box-sizing: border-box;
+}
